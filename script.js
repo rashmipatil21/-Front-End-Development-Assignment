@@ -16,7 +16,7 @@ document.getElementById('loginForm').addEventListener('submit', function(event) 
     return;
   }
 
-  // API Call (simplified)
+  // API Call 
   alert('Logging in...'); // Show loading alert
 
   fetch('https://jsonplaceholder.typicode.com/posts', {
