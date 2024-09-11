@@ -4,7 +4,7 @@ This project is a simple login form built using HTML, CSS, and JavaScript. It in
 
 ## How to Run the Project
 
-1. Clone the repository:
+ Clone the repository:
    https://github.com/rashmipatil21/-Front-End-Development-Assignment.git
 
 ## Live Demo Link:
